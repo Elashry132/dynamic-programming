@@ -9,9 +9,6 @@ This repository contains solutions to various dynamic programming problems imple
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Authors](#authors)
 
 ## Description
 
