@@ -18,6 +18,8 @@ This project is a collection of dynamic programming problems solved using JavaSc
 - Can Sum
 - Grid Traveller
 - How Sum
+- Best Sum
+- Can Construct
 
 These implementations are designed to be easy to understand and adaptable for educational purposes or to be integrated into larger projects.
 
